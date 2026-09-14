@@ -23,3 +23,5 @@ prefer not to use var because of issue in block scope and functional scope
 const once declared cannot be changed
 let and var are used for defining variables; use let as var not preferred
 */
+
+//console.table is used to display data in tabular form in console.
