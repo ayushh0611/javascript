@@ -2,7 +2,7 @@
 // console.log(null==0)
 // console.log(null>=0)
 
-// // == and >,<,>=,<= work differently; == converts null to a number treating it as 0  // avoid these type of conversion
+// // == and >,<,>=,<= work differently; comparison converts null to a number treating it as 0  // avoid these type of conversion
 
 // console.log(undefined==0);
 // console.log(undefined>0);
