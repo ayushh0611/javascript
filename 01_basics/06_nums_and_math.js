@@ -18,8 +18,8 @@
 // console.log(num3.toPrecision(3))      //precise to 3 and rest in exponential
 
 const num4 = 1000000
-console.log(num4.toLocaleString());
-console.log(num4.toLocaleString('en-In'));
+console.log(num4.toLocaleString());            //1,000,000
+console.log(num4.toLocaleString('en-In'));     //10,00,000
 
 
 // *****************  MATHS  *********************//
